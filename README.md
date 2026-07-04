@@ -9,7 +9,7 @@ Reach for this when you run a brand's social presence alone and the calendar nev
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/social-media-studio](https://skillme.dev/pack/social-media-studio) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/social-media-studio`
+- **With the skills CLI:** `npx skills add SkillMedev/social-media-studio`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
