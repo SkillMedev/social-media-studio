@@ -21,6 +21,44 @@ Take one existing piece and ship the same idea as a native post on each requeste
 6. If output feeds a calendar, note sequencing: long-form first (the anchor), then the atomized versions pointing back to it, staggered over days rather than dumped at once.
 7. Label each version with its target channel and format on delivery.
 
+## Worked example
+
+Source: a newsletter section arguing that most A/B tests are called too early, with the proof point "tests stopped at 50 conversions flip their winner a third of the time."
+
+**Bad (truncated, not rebuilt) — X:**
+> Most A/B tests are called too early. Teams stop tests when they see an early leader, but tests stopped at 50 conversions flip their winner a third of the time. You need to pre-commit to a sample size and… (1/4)
+
+This is the newsletter paragraph chopped at 280 characters with a thread number stapled on — the first post doesn't stand alone, the hook is buried, and the register is still newsletter-formal.
+
+**Good — X:**
+> Your A/B test winner is probably fake.
+>
+> Tests stopped at 50 conversions flip their winner a third of the time.
+>
+> Pick the sample size before you launch, or you're just reading tea leaves.
+
+**Good — LinkedIn (same core, rebuilt):**
+> We killed a "winning" variant last quarter.
+>
+> It had beaten control for two straight weeks. Then we let the test run to the pre-set sample size — and the result flipped.
+>
+> That's not bad luck. Tests stopped at ~50 conversions flip their winner about a third of the time.
+>
+> The fix is boring and unpopular: decide the sample size before launch, and don't peek.
+>
+> What's the earliest you've been burned by calling a test?
+
+Same idea, same proof point, two different structures: X leads with the punch and stands alone; LinkedIn opens with a story, breathes with white space, and ends with a conversation prompt.
+
+## Deliverable
+
+Produce a channel-labeled post set containing, for each requested channel:
+
+1. **The rebuilt post** in that channel's native structure, length, and register — script form (with hook timing and on-screen beats) for TikTok/Shorts, text form for the rest.
+2. **The conventions applied** — hashtags at the channel's norm, feature notes (carousel, poll, thread) where relevant.
+3. **A one-line core statement** at the top of the set, so anyone can verify every version carries the same idea and proof.
+4. **Sequencing notes** (anchor first, atomized versions staggered and linking back) if the set feeds a calendar.
+
 ## Quality bar
 - Every version reads as if written for that channel first, not resized from another.
 - The core idea and its proof survive intact in each version.

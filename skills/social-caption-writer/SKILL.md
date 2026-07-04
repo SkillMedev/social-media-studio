@@ -23,6 +23,10 @@ Turn a topic plus brand voice into one platform-native caption that wins the fir
 - Exactly one CTA, specific and matched to how people act on that platform.
 - Emojis used as accents, never as punctuation replacements.
 
+## Deliverable
+
+Produce one ready-to-paste caption for the confirmed platform, formatted with its native line breaks, plus two support lines beneath it: the hook character count (proving it lands before the truncation cutoff) and any hashtags or link note called out separately so the user can drop or move them per their posting tool. One platform, one caption, one CTA — variants only if the user asks.
+
 ## Do NOT
 - Open with "In today's fast-paced world" or any throat-clearing context.
 - Use engagement-bait: "comment YES below", tag-3-friends chains, follow-for-follow — platforms suppress it.

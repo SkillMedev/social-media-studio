@@ -21,6 +21,10 @@ Turn one idea into an ordered slide deck where slide one earns the swipe and eve
 - LinkedIn (PDF / document post): educational, framework-driven, more text tolerated, cleaner design.
 - Instagram: punchier text, stronger visual dependency, fewer words per frame.
 
+## Deliverable
+
+Produce a complete carousel script the user can hand straight to design or a template tool: 2-3 cover options with a recommendation, then a numbered slide-by-slide table where every slide carries its headline, its 1-2 support sentences, and a one-line design direction — closed by the single-CTA final slide and the ready-to-post caption. Nothing in the deliverable should require another writing pass.
+
 ## Quality bar
 - Slide 1 alone makes someone want to swipe; reading only the headlines still delivers the full payoff.
 - 6-10 slides; exactly one idea per slide and one CTA on the final slide.
@@ -29,7 +33,7 @@ Turn one idea into an ordered slide deck where slide one earns the swipe and eve
 
 ## Do NOT
 - Do not script a carousel for a single tip, one-liner, or time-sensitive moment — recommend a Reel, single image, or text post.
-- Do not dump a paragraph onto a slide or put more than one idea on a frame.
-- Do not stack multiple asks on the closing slide.
+- Do not dump a paragraph onto a slide or put more than one idea on a frame — split ideas cost swipes, and a lost swipe ends the read.
+- Do not stack multiple asks on the closing slide; a second CTA halves the chance either gets taken.
 - Do not ship a weak cover; if slide 1 is weak, nothing downstream matters.
 - Do not bury the point — lead each slide with it, never with throat-clearing.

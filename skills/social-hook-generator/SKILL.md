@@ -23,6 +23,10 @@ Produce 10 distinct opening lines for a written post, labeled by archetype, so t
 4. Fit the written surface. Make each hook self-contained as text: it must land before the cut-off — X's tweet limit, LinkedIn's "...more" fold, Instagram's first caption line. No reliance on audio, video, or a thumbnail.
 5. Hand back all 10 with their labels and a one-line note on which archetypes suit the writer's idea best.
 
+## Deliverable
+
+Produce a labeled list of exactly 10 hooks — one per archetype, in the order above — with every inferred specific marked as a [placeholder] the writer must replace, followed by a one-line recommendation naming the 2-3 archetypes best matched to this particular idea and why. The writer should be able to paste any hook directly into the platform's composer.
+
 ## Quality bar
 - Every hook is concrete: a real number, outcome, timeframe, or named subject beats any adjective. "I grew fast" fails; "0 to 10k in 90 days" passes.
 - The 10 are genuinely different patterns, not ten rewordings of one line.
