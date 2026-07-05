@@ -2,7 +2,7 @@
 
 **A month of on-brand posts, repurposed everywhere, in an afternoon.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Reach for this when you run a brand's social presence alone and the calendar never stops. It takes one idea from a planned multi-platform calendar to posts that sound native on every channel — captions, hooks, LinkedIn posts, X threads, and swipe-through carousels — then repurposes it across feeds, sizes the right hashtag set, and drafts on-brand replies to the comments and DMs that follow. The output is a consistent, channel-native cadence without a content team.
+Reach for this when you run a brand's social presence alone and the calendar never stops. It takes one idea from a planned multi-platform calendar to posts that sound native on every channel - captions, hooks, LinkedIn posts, X threads, and swipe-through carousels - then repurposes it across feeds, sizes the right hashtag set, and drafts on-brand replies to the comments and DMs that follow. The output is a consistent, channel-native cadence without a content team.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -18,11 +18,11 @@ Reach for this when you run a brand's social presence alone and the calendar nev
 - **[Social Caption Writer](skills/social-caption-writer/SKILL.md)** — Write one platform-native caption from a topic and brand voice, with a front-loaded hook, native length, and a single earned CTA.
 - **[Social Hook Generator](skills/social-hook-generator/SKILL.md)** — Generates 10 labeled opening lines for a written social post, one per hook archetype, so the writer can test instead of guess.
 - **[Cross-Platform Reformatter](skills/cross-platform-reformatter/SKILL.md)** — Re-expresses one finished piece of content as the native-equivalent post on each target channel, holding the core idea constant while flexing length, structure, register, and conventions per platform.
-- **[Hashtag Strategist](skills/hashtag-strategist/SKILL.md)** — Builds a tiered hashtag and keyword set sized to the account's actual reach — mixing broad, niche, and branded tags per platform limits and screening out banned, spammy, or shadow-flagged tags.
+- **[Hashtag Strategist](skills/hashtag-strategist/SKILL.md)** — Builds a tiered hashtag and keyword set sized to the account's actual reach - mixing broad, niche, and branded tags per platform limits and screening out banned, spammy, or shadow-flagged tags.
 - **[Engagement Reply Drafter](skills/engagement-reply-drafter/SKILL.md)** — Drafts short, on-brand replies to public social comments and DMs, including graceful handling of praise, questions, complaints, and criticism.
 - **[Carousel Scripter](skills/carousel-scripter/SKILL.md)** — Scripts a multi-slide Instagram or LinkedIn carousel as a hook slide, one-idea-per-slide value frames, and a single-CTA closing slide, with per-slide copy and design direction.
-- **[LinkedIn Post Writer](skills/linkedin-post-writer/SKILL.md)** — Write LinkedIn posts built for the feed — a hook that survives the two-line truncation, scannable one-idea-per-line structure, a comment-bait close, and first-hour engagement moves.
-- **[Tweet Thread Builder](skills/tweet-thread-builder/SKILL.md)** — Turn one idea into a tight tweet thread — a hook that earns the click, one beat per post, and momentum to a single CTA.
+- **[LinkedIn Post Writer](skills/linkedin-post-writer/SKILL.md)** — Write LinkedIn posts built for the feed - a hook that survives the two-line truncation, scannable one-idea-per-line structure, a comment-bait close, and first-hour engagement moves.
+- **[Tweet Thread Builder](skills/tweet-thread-builder/SKILL.md)** — Turn one idea into a tight tweet thread - a hook that earns the click, one beat per post, and momentum to a single CTA.
 
 ## License
 
