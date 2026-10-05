@@ -1,16 +1,17 @@
 # Social Media Manager Studio
 
-**A month of on-brand posts, repurposed everywhere, in an afternoon.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**A month of on-brand posts, repurposed everywhere, in an afternoon.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-social-media-studio).
 
 Reach for this when you run a brand's social presence alone and the calendar never stops. It takes one idea from a planned multi-platform calendar to posts that sound native on every channel - captions, hooks, LinkedIn posts, X threads, and swipe-through carousels - then repurposes it across feeds, sizes the right hashtag set, and drafts on-brand replies to the comments and DMs that follow. The output is a consistent, channel-native cadence without a content team.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/social-media-studio](https://skillme.dev/pack/social-media-studio) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/social-media-studio?utm_source=github&utm_medium=readme&utm_campaign=pack-social-media-studio) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add social-content-calendar social-caption-writer social-hook-generator cross-platform-reformatter hashtag-strategist engagement-reply-drafter carousel-scripter linkedin-post-writer tweet-thread-builder --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/social-media-studio`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -27,4 +28,4 @@ Reach for this when you run a brand's social presence alone and the calendar nev
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-social-media-studio).
